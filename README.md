@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jared Ball</h1>
-<h3 align="center">Senior BS Computer Science Student at SUNY Oswego</h3>
+<h3 align="center">A Senior BS Computer Science Student at SUNY Oswego</h3>
 <img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
 
