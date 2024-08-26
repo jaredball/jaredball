@@ -4,10 +4,9 @@
 
 
 - 🔭 I'm currently working on:
-  - **Business recommendation system scraping the YELP database**
-  - **Web application for CNY Judo at SUNY Oswego**
+  - **Waiting on my next assignment...**
 
-- 🌱 I’m currently learning **Javascript and Node.js**
+- 🌱 I’m currently learning **TBD...**
 
 - 📫 How to reach me **jaredball.cs@gmail.com**
 
