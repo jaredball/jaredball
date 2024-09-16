@@ -4,9 +4,10 @@
 
 
 - 🔭 I'm currently working on:
-  - **Waiting on my next assignment...**
+  - **Collaborating in QA to create a to-do list app --- Software Design**
+  - **Creating a dynamic database through the use of Postman, AWS services, and GO --- Software Deployment**
 
-- 🌱 I’m currently learning **TBD...**
+- 🌱 I’m currently learning **GO, CLojure, Scala, ASP, and Python**
 
 - 📫 How to reach me **jaredball.cs@gmail.com**
 
