@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jaredball.cs@gmail.com**
 
-- ⚡ Fun fact **I originally was a chemical engineering major until I changed major my sophomore year**
+- ⚡ Fun fact **I was a chemical engineering major until I changed major my sophomore year**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
