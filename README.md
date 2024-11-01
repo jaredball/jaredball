@@ -4,10 +4,10 @@
 
 
 - 🔭 I'm currently working on:
-  - **Collaborating in QA to create a to-do list app --- Software Design**
-  - **Creating a dynamic database through the use of Postman, AWS services, and GO --- Software Deployment**
+  - **Collaborating in QA to create a CheckMate, a to-do list app --- Software Design**
+  - **Creating a dynamic database through the use of Docker, AWS, and GO --- Software Deployment**
 
-- 🌱 I’m currently learning **GO, CLojure, Scala, ASP, and Python**
+- 🌱 I’m currently learning **GO, ASP, and Python**
 
 - 📫 How to reach me **jaredball.cs@gmail.com**
 
