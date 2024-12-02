@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jared Ball</h1>
+<h1 align="center">Hi, I'm Jared Ball</h1>
 <h3 align="center">A Senior BS Computer Science Student at SUNY Oswego</h3>
 <img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
 
 - 🔭 I'm currently working on:
-  - **Collaborating in QA to create a CheckMate, a to-do list app --- Software Design**
-  - **Creating a dynamic database through the use of Docker, AWS, and GO --- Software Deployment**
+  - **Collaborating in QA to create CheckMate, a to-do list app --- Software Design**
+  - **Experimenting with Docker, AWS, and GO --- Software Deployment**
 
-- 🌱 I’m currently learning **GO, ASP, and Python**
+- 🌱 I’m currently learning **GO and Python**
 
 - 📫 How to reach me **jaredball.cs@gmail.com**
 
