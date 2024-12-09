@@ -4,10 +4,9 @@
 
 
 - 🔭 I'm currently working on:
-  - **Collaborating in QA to create CheckMate, a to-do list app --- Software Design**
-  - **Experimenting with Docker, AWS, and GO --- Software Deployment**
+  - **GRADUATING!!**
 
-- 🌱 I’m currently learning **GO and Python**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **jaredball.cs@gmail.com**
 
