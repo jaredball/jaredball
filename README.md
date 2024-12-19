@@ -28,5 +28,5 @@ I’m a recent SUNY Oswego graduate with a Bachelor of Science in Computer Scien
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaredball&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/jaredball/">
-  <img align="center" style="width: 350px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredball&layout=compact&theme=transparent" />
+  <img align="center" style="width: 355px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredball&layout=compact&theme=transparent" />
 </a>
